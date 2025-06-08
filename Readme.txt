@@ -23,5 +23,5 @@ Import database carrental.sql
 
 Usage:
 Customers can create an account and log in to view available cars, make reservations, and manage their reservations.
-Car rental agencies can create an account and log in to add their cars and manage their cars.
+Car rental agencies can create an account and log in to add their cars and manage their cars. 
 System admin can create an account and log in to manage the whole system, including managing customers, car rental agencies, and cars.
